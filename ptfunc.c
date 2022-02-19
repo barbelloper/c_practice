@@ -15,8 +15,11 @@ int sub(int a, int b)
 }
 int main(void)
 {
+    int (*fp1) (int, int);
+    fp1 = add;
     fp a = add;
     a = sub;
     a(1,2);
+    fp1(1,2);
     return 0;
 }
