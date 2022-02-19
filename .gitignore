@@ -1,0 +1,7 @@
+poly
+test
+*.cmake
+CMakeCache.txt
+*.a
+Makefile
+app
