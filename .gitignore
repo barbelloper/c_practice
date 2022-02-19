@@ -5,3 +5,4 @@ CMakeCache.txt
 *.a
 Makefile
 app
+CMakeFiles
