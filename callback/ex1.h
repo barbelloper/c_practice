@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 typedef void* handle;
+
 typedef enum EventType
 {
 	kStart,

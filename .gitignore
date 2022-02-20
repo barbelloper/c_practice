@@ -1,8 +1,8 @@
 poly
 test
-*.cmake
-CMakeCache.txt
-*.a
-Makefile
-app
 CMakeFiles
+CMakeCache.txt
+Makefile
+*.a
+app
+*.cmake
